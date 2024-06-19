@@ -31,4 +31,6 @@ For the transformation part, the data fetched from the S3 bucket by the extracti
 
 -Integration: AWS and Snowflake
 
+-Analysis: PowerBI
+
 Finally, the transformed data is loaded into Snowflake using Snowpipe. This integration between AWS and Snowflake ensures that the data flows seamlessly from S3 to Snowflake for further analysis.
