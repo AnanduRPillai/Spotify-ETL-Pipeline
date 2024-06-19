@@ -4,7 +4,6 @@
 
 In this project, I built an ETL (Extract, Transform, Load) Pipeline for fetching Spotify's trending playlists using the Spotify APIs.
 
-Data: https://data.world/raghu543/ipl-data-till-2017
 
 ## Extraction
 
